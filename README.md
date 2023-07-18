@@ -7,18 +7,6 @@
 
 <p align="left"> <a href="https://twitter.com/mamy_22_zayn" target="blank"><img src="https://img.shields.io/twitter/follow/mamy_22_zayn?logo=twitter&style=for-the-badge" alt="mamy_22_zayn" /></a> </p>
 
-- 🔭 I’m currently working on **Javascript**
-
-- 🌱 I’m currently learning **ReactJS**
-
-- 👯 I’m looking to collaborate on **Javascript**
-
-- 👨‍💻 All of my projects are available at [https://lawmsangi.github.io/my-portfolio/](https://lawmsangi.github.io/my-portfolio/)
-
-- 💬 Ask me about **coding and collaboration**
-
-- 📫 How to reach me **lawmsangivarte22@gmail.com**
-
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/mamy_22_zayn" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="mamy_22_zayn" height="30" width="40" /></a>
